@@ -1,0 +1,7 @@
+Question
+In the case of the third amount (50030), did the debit amount correspond to the expected amount?
+
+Response
+- No , the debit amount did not correspond to the expected amount 
+- This is because its not right for the business  to fix price for the program   
+- The preffered solution for a case like this is to have another system computing price for the business 
